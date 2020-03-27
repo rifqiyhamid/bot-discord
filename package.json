@@ -1,7 +1,6 @@
 {
   "name": "dis",
   "version": "1.0.0",
-  "desccription" : "none",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -21,5 +20,5 @@
     "url": "https://github.com/rifqiyhamid/bot-discord/issues"
   },
   "homepage": "https://github.com/rifqiyhamid/bot-discord#readme",
-  "description": ""
+  "description": "uwow"
 }
