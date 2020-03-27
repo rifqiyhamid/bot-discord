@@ -1,7 +1,7 @@
 {
   "name": "dis",
   "version": "1.0.0",
-  "description": "",
+  "description": "bot diskord",
   "main": "index.js",
   "scripts": {
     "start" : "node index.js"
